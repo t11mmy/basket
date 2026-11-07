@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for Basket Random 2P — a pixel-art 2v2 ragdoll physics basketball game with single-button hold/release controls, continuous inverted-pendulum character wobbling, realistic ball collision & net physics, score tracking to 5 points, and random round modifiers after each basket.",
+  "updatedAt":  "2026-11-07T20:30:14.377154815Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Basket Random 2P — Pixel Physics Basketball",
+  "description": "Двухпользовательский пиксельный баскетбол с физикой шатающихся персонажей, прыжками, реалистичной траекторией мяча и случайными модификаторами раундов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
